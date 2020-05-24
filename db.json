@@ -1,1 +1,97 @@
 
+{
+  "categorylist": [
+    {
+      "id": 1,
+      "category_name": "beds"
+    },
+    {
+      "category_name": "chairs",
+      "id": 2
+    },
+    {
+      "category_name": "assessors",
+      "id": 3
+    }
+  ],
+  "products": [
+    {
+      "id": 3,
+      "category": "assessors",
+      "name": "Jhumka ",
+      "price": "200",
+      "quantity": 2,
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a",
+      "img_1": "https://i.ibb.co/C9HBWLK/accessories1.jpg",
+      "img_2": "https://i.ibb.co/crVLSNY/accessories3.jpg",
+      "cat_id": 6,
+      "cat_name": "1",
+      "link": "https://www.amazon.in/Wakefit-Andromeda-Sheesham-Storage-Double/dp/B07ZXZ84NS/ref=sr_1_1_sspa?dchild=1&keywords=beds&qid=1590298678&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUjBCRjhJMUpWTkImZW5jcnlwdGVkSWQ9QTA4NDg4MzUzUFpCQlk5U0QzOVI5JmVuY3J5cHRlZEFkSWQ9QTAwNjE5MDkzM0hBQUQwS043RFRIJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ=="
+    },
+    {
+      "category": "chairs",
+      "name": "Chair 1",
+      "price": "5000",
+      "quantity": "3",
+      "img_1": "https://i.ibb.co/WyNT2cC/pro-big-3.jpg",
+      "img_2": "https://i.ibb.co/mBmVHk1/pro-big-2.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a",
+      "id": 4
+    },
+    {
+      "category": "beds",
+      "name": "Wakefit Andromeda Sheesham Bed with Storage (Queen Size Bed), Solid Wood Double Bed",
+      "price": "18,000",
+      "quantity": "1",
+      "img_1": "https://images-na.ssl-images-amazon.com/images/I/81yHITK-SQL._SY450_.jpg",
+      "img_2": "https://images-na.ssl-images-amazon.com/images/I/51YwgIu1eZL._SX679_.jpg",
+      "description": "Queen-size bed with dimensions of 213cm (length) x 160cm (width) x 90cm (height )\nSheesham solid wood bed. Recommended Mattress Size is 78x60 inches.\nFine texture, ample storage and solid structure.\nAssembly can be done by customer himself using instruction manual. DIY\nLoad bearing capacity of 360kgs to provide proper support",
+      "id": 5,
+      "link": "https://www.amazon.in/Wakefit-Andromeda-Sheesham-Storage-Double/dp/B07ZXZ84NS/ref=sr_1_1_sspa?dchild=1&keywords=beds&qid=1590298678&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzUjBCRjhJMUpWTkImZW5jcnlwdGVkSWQ9QTA4NDg4MzUzUFpCQlk5U0QzOVI5JmVuY3J5cHRlZEFkSWQ9QTAwNjE5MDkzM0hBQUQwS043RFRIJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==\t"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "title": "chairs",
+      "img": "https://i.ibb.co/6WWYbZW/product6.jpg",
+      "price": "8000"
+    },
+    {
+      "title": "chairs",
+      "img": "https://i.ibb.co/QHxcCcy/product5.jpg",
+      "price": "1000000",
+      "id": 2
+    },
+    {
+      "title": "assessors",
+      "img": "https://i.ibb.co/C9HBWLK/accessories1.jpg",
+      "price": "1000000",
+      "id": 3
+    },
+    {
+      "title": "assessors",
+      "img": "https://i.ibb.co/4NFpcmQ/accessories2.jpg",
+      "price": "23232",
+      "id": 4
+    },
+    {
+      "title": "beds",
+      "img": "https://images-na.ssl-images-amazon.com/images/I/81yHITK-SQL._SY450_.jpg",
+      "price": "18,000.00",
+      "id": 5
+    },
+    {
+      "title": "Beds",
+      "img": "https://i.ibb.co/JzThTv8/bed3.jpg",
+      "price": "80,000",
+      "id": 6
+    },
+    {
+      "img": "https://i.ibb.co/7b7gSbp/bed2.jpg",
+      "price": "100,0000",
+      "id": 15,
+      "title": "beds"
+    }
+  ]
+}
