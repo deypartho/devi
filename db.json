@@ -1,5 +1,27 @@
 {
- "hindiSeasonDetail": [
+ "hindiSeason": [
+    {
+        "id": 1,
+        "title": "Special OPS",
+        "year": 2020,
+        "rating": 8.7,
+        "genres": [
+            "Action", "Thriller"
+        ],
+        "medium_cover_image": "https://m.media-amazon.com/images/M/MV5BMDc3Zjc4NjAtMTI2MC00YmQwLTk3MmItZTZiNWM0YmNiNmNkXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_SX300.jpg"
+    }, 
+    {
+        "id": 2,
+        "title": "Breathe Into the Shadows",
+        "year": 2020,
+        "rating": "N/A",
+        "genres": [
+          "Drama", "Thriller"
+        ],
+        "medium_cover_image": "https://m.media-amazon.com/images/M/MV5BMDI0N2NjNzctY2RkOC00OWNkLTg2MzMtMGU0YTUzNGJkYmNlXkEyXkFqcGdeQXVyNTM1MzM4Nzk@._V1_.jpg"
+    }
+  ],
+  "hindiSeasonDetail": [
     {
       "id": 1,
       "url": "http://ewebmovies.online/#/hindiwebseries/408764",
@@ -90,5 +112,5 @@
           }
       ]
     } 
-  ]  
+  ]
 }
